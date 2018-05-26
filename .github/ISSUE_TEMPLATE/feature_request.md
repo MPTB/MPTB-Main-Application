@@ -1,17 +1,17 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+Section: Feature Request
+Description: Help us improve upon the inluded mechanics and/or request new ones.
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**If your feature request is related to a problem or a pre-existing feature, please elaborate:**
+Describe your problem in a clear and concise manner. E.g., "It inconveniences me when [...]"
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Describe the solution you'd like:**
+Give us a clear and concise description of the solution to the aforementioned problem you would like to see implemented, be it a new feature added or a pre-existing feature altered.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Descride your alteration(s) and/or new feature(s):**
+Elaborate clearly and concisely, and give us precise instructions on, how you think this feature could be altered to make for a better user experience.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Miscellaneous:**
+You can include screenshots to provide further context to your problem(s)/solution(s)/alteration(s)/request(s).
