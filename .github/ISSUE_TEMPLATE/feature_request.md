@@ -1,4 +1,9 @@
 ---
+name: Bug report
+about: Create a report to help us improve
+
+---
+---
 Section: Feature Request
 Description: Help us improve upon the inluded mechanics and/or request new ones.
 
