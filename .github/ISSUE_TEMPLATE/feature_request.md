@@ -1,13 +1,9 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Help us improve upon the inluded mechanics and/or request new ones.
 
 ---
----
-Section: Feature Request
-Description: Help us improve upon the inluded mechanics and/or request new ones.
 
----
 
 **If your feature request is related to a problem or a pre-existing feature, please elaborate:**
 Describe your problem in a clear and concise manner. E.g., "It inconveniences me when [...]"
