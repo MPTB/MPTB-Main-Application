@@ -3,6 +3,7 @@ name: Bug report
 about: Create a report to help us improve
 
 ---
+---
 Section: Bug Report
 Description: Help us eradicate unintended behaviour.
 
