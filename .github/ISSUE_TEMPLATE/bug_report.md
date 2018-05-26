@@ -5,7 +5,7 @@ Description: Help us eradicate unintended behaviour.
 ---
 
 **Describe the bug:**
-Describe your problem in a clear and concise manner. Be exact and provide as much information about the behaviour of the bug as you can.
+Describe your problem in a clear and concise manner. Be exact and provide as much information concerning the behaviour of the bug as you can.
 
 **Steps of Reproduction:**
 Provide us with clear and concise steps to reproduce the behavior:
