@@ -1,14 +1,9 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Bug Report
+about: Help us eradicate unintended behaviour.
 
 ---
 
----
-Section: Bug Report
-Description: Help us eradicate unintended behaviour.
-
----
 
 **Describe the bug:**
 Describe your problem in a clear and concise manner. Be exact and provide as much information concerning the behaviour of the bug as you can.
@@ -21,7 +16,7 @@ Provide us with clear and concise steps to reproduce the behavior:
 4. The bug lies here.
 
 **Expected behavior:**
-Give us a clear and concise description of what you would have expected would happen when the action had been triggered.
+Give us a clear and concise description of what you would have expected to have happened when the action had been triggered.
 
 **Screenshots & Miscellaneous:**
 If you are able to, add screenshots to provide further context and clarity to the aforementioned problem(s).
