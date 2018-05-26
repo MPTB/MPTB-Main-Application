@@ -1,6 +1,6 @@
 ---
-Name: Bug Report
-About: Help us eradicate unintended behaviour.
+Section: Bug Report
+Description: Help us eradicate unintended behaviour.
 
 ---
 
